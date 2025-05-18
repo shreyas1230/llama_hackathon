@@ -1,4 +1,4 @@
-# 🧠 Streamlit File & Image Retrieval App
+# 🦙 Your Pet Llama
 
 This is a powerful and interactive web application built with [Streamlit](https://streamlit.io/) for retrieving files and images using natural language and visual queries. It leverages [LlamaIndex](https://github.com/jerryjliu/llama_index), OpenAI’s CLIP for multimodal embeddings, and supports vector database integrations with Postgres and Qdrant. Local language model inference is enabled via [Ollama](https://ollama.com/), making the app entirely self-hostable.
 
