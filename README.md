@@ -10,6 +10,15 @@ This is a powerful and interactive web application built with [Streamlit](https:
 - 🦙 Integration with local LLMs through **Ollama**
 - 📊 Intuitive, browser-based UI built with **Streamlit**
 
+## ⚙️ Installation
+
+⚠️ **Requires Python 3.11**  
+Ensure you have Python 3.11 installed before proceeding. You can check your version with:
+
+ ```bash
+ python --version
+ ```
+
 ## 🛠️ Getting Started
 
 1. **Install the required dependencies**:
