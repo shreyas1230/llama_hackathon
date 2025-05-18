@@ -1,0 +1,9 @@
+h5py==3.8.0
+llama-index
+llama-index-llms-ollama
+llama-index-embeddings-clip
+git+https://github.com/openai/CLIP.git
+llama-index-vector-stores-postgres
+llama-index-vector-stores-qdrant
+nbconvert
+streamlit
